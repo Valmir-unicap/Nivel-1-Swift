@@ -2,3 +2,4 @@
 
 - Tipos de variaveis
 - Condicionais
+- Entrada e saida de dados
