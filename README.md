@@ -3,5 +3,6 @@
 ## Conteúdos aprendidos
 
 - Tipos de variaveis
-- Condicionais
+- Estruturas Condicionais
 - Entrada e saida de dados
+- Metodos
