@@ -12,3 +12,4 @@
 - Lista
 - Dicionário
 - Laços de repetição
+- Função
