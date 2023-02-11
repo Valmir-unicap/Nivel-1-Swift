@@ -10,3 +10,4 @@
 - Operadores aritméticos
 - Conversão de variaveis
 - Lista
+- Dicionário
