@@ -9,3 +9,4 @@
 - Concatenação
 - Operadores aritméticos
 - Conversão de variaveis
+- Lista
