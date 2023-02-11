@@ -11,3 +11,4 @@
 - Conversão de variaveis
 - Lista
 - Dicionário
+- Laços de repetição
