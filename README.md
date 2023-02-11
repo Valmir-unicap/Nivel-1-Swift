@@ -6,3 +6,6 @@
 - Estruturas Condicionais
 - Entrada e saida de dados
 - Metodos
+- Concatenação
+- Operadores aritméticos
+- Conversão de variaveis
